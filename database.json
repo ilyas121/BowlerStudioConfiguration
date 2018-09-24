@@ -1,6 +1,11 @@
 {
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/43aeedefe09af1f308146373034308dd.git:TheCalledScript.groovy": [
+      "https://gist.github.com/43aeedefe09af1f308146373034308dd.git",
+      "TheCalledScript.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.28.1",
     "fontsize": 12.0,
